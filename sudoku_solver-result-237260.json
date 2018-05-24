@@ -1,0 +1,18 @@
+[
+    {
+        "advice": "",
+        "traceback": "",
+        "rubric_item_id": "5531",
+        "description": "1. The naked_twins method applies the 'naked twins' strategy",
+        "result": ".",
+        "message": ""
+    },
+    {
+        "advice": "",
+        "traceback": "",
+        "rubric_item_id": "5530",
+        "description": "2. The solve method produces a valid solution",
+        "result": ".",
+        "message": ""
+    }
+]
